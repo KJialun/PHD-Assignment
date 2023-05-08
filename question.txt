@@ -1,0 +1,15 @@
+what is " virtual "  ultra wide band ?  
+
+
+if we want 1ns time resolution , we need 1Ghz bandwidth ,  virtual means is that we will not use the whole 1Ghz bandwidth ,  we will separate the whole bandwidth into 10 subbands , and we only use three of them , it can achive the same time resolution .  
+
+
+what is the challenge of this way ? 
+
+How to choose the location of subband?  1 ,3 , 9   or 1 8 9? 
+we need to charaterize this multiband channel , when we choose different location ？ 
+
+when we determin the location ,  each subband will observe totally different environment , since the multipath phase depends on the propogation distance over the wave length , if we change the carrier frequency , we will change the phase of multipath,  ..     
+
+the challenge is that how do we compensated the phase change due to the change of carrier frequency .
+ 
